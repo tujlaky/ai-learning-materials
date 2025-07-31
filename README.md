@@ -15,7 +15,8 @@ Learning materials for AI related topics
 
 # MCP
 
-https://www.youtube.com/live/lHuxDMMkGJ8?si=4ojIDcnoxZptU9It
+* https://www.youtube.com/live/8-okWLAUI3Q?si=gDcGGf64g3xoP2tl
+* https://www.youtube.com/live/lHuxDMMkGJ8?si=4ojIDcnoxZptU9It
 
 # Training
 
