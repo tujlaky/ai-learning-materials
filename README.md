@@ -13,4 +13,4 @@ Learning materials for AI related topics
 
 ## Training models
 
-* How to train your model - NVIDIA? https://youtu.be/hMGikmMFLAU?si=f0QvHil6s1vglYg0
+* [Train a Reasoning-Capable LLM in One Weekend](https://youtu.be/hMGikmMFLAU?si=f0QvHil6s1vglYg0)
