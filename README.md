@@ -13,6 +13,10 @@ Learning materials for AI related topics
 * https://www.coursera.org/specializations/ai-essentials-google
 * https://cloud.google.com/learn/training/machinelearning-ai
 
+# MCP
+
+https://www.youtube.com/live/lHuxDMMkGJ8?si=4ojIDcnoxZptU9It
+
 # Training
 
 ## Training models
