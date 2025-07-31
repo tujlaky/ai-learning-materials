@@ -1,6 +1,8 @@
 # ai-learning-materials
 Learning materials for AI related topics
 
+# Beginner materials
+
 ## Microsoft learning materials
 
 * https://github.com/Microsoft/AI-For-Beginners
@@ -10,6 +12,8 @@ Learning materials for AI related topics
 
 * https://www.coursera.org/specializations/ai-essentials-google
 * https://cloud.google.com/learn/training/machinelearning-ai
+
+# Training
 
 ## Training models
 
