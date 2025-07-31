@@ -22,6 +22,10 @@ Learning materials for AI related topics
 
 * https://www.arcade.dev/
 
+# n8n
+
+* https://developers.googleblog.com/en/introducing-opal/
+
 # Training
 
 ## Training models
