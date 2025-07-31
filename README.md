@@ -11,4 +11,6 @@ Learning materials for AI related topics
 * https://www.coursera.org/specializations/ai-essentials-google
 * https://cloud.google.com/learn/training/machinelearning-ai
 
-https://youtu.be/hMGikmMFLAU?si=f0QvHil6s1vglYg0
+## Training models
+
+* How to train your model - NVIDIA? https://youtu.be/hMGikmMFLAU?si=f0QvHil6s1vglYg0
