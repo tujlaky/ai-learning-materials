@@ -42,6 +42,7 @@ Learning materials for AI related topics
 
 * https://developers.googleblog.com/en/introducing-opal/
 * https://github.com/flydelabs/flyde
+* https://github.com/simstudioai/sim
 
 # Training
 
