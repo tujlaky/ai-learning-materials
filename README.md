@@ -34,6 +34,7 @@ Learning materials for AI related topics
 # n8n
 
 * https://developers.googleblog.com/en/introducing-opal/
+* https://github.com/flydelabs/flyde
 
 # Training
 
