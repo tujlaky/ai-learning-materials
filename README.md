@@ -12,6 +12,7 @@ Learning materials for AI related topics
 
 * https://www.coursera.org/specializations/ai-essentials-google
 * https://cloud.google.com/learn/training/machinelearning-ai
+
 ## Python learning
 * https://youtu.be/MqywbqLmjp4?si=EWHQf6Rj1PefL1c4
 
@@ -19,6 +20,10 @@ Learning materials for AI related topics
 
 * https://www.theunwindai.com/
 * https://youtu.be/eE6yvtKLwvk?si=s8AQ1Wh0w9jk9rVE
+
+# AI agents
+
+* https://youtu.be/Ts42JTye-AI?si=psyoHXsplhXKf31X
 
 # MCP
 
