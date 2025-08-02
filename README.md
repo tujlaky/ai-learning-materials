@@ -21,6 +21,10 @@ Learning materials for AI related topics
 * https://www.mathacademy.com
 * https://www.khanacademy.org
 
+## Deep learning
+
+* https://www.coursera.org/specializations/deep-learning
+
 ## Other AI learning
 
 * https://www.theunwindai.com/
