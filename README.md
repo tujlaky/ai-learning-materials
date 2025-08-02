@@ -21,6 +21,7 @@ Learning materials for AI related topics
 * https://www.theunwindai.com/
 * https://youtu.be/eE6yvtKLwvk?si=s8AQ1Wh0w9jk9rVE
 * https://youtu.be/JAWSqX2fBvQ?si=5GkoRdbDhMiDLKh2
+* https://youtu.be/dbUIjFXIpis?si=Fb00OmhFcGOvCTNZ
 
 # AI agents
 
