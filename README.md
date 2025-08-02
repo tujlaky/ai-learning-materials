@@ -19,6 +19,7 @@ Learning materials for AI related topics
 ## Math
 
 * https://www.mathacademy.com
+* https://www.khanacademy.org
 
 ## Other AI learning
 
