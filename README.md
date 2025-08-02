@@ -27,6 +27,7 @@ Learning materials for AI related topics
 * https://youtu.be/JAWSqX2fBvQ?si=5GkoRdbDhMiDLKh2
 * https://youtu.be/dbUIjFXIpis?si=Fb00OmhFcGOvCTNZ
 * https://youtu.be/KgolhE7p-KY?si=po9XiJXp0VStDRam
+* https://youtu.be/_xIwjmCH6D4?si=2ykTFLlFBQ_nCfPX
 
 # AI agents
 
