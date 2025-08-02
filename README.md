@@ -16,6 +16,10 @@ Learning materials for AI related topics
 ## Python learning
 * https://youtu.be/MqywbqLmjp4?si=EWHQf6Rj1PefL1c4
 
+## Math
+
+* https://www.mathacademy.com
+
 ## Other AI learning
 
 * https://www.theunwindai.com/
