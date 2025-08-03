@@ -64,4 +64,4 @@ Learning materials for AI related topics
 
 ## Training models
 
-* [Train a Reasoning-Capable LLM in One Weekend]([Train a Reasoning-Capable LLM in One Weekend](https://www.youtube.com/watch?v=hMGikmMFLAU)
+* [Train a Reasoning-Capable LLM in One Weekend](https://www.youtube.com/watch?v=hMGikmMFLAU)
