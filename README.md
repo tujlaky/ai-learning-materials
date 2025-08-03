@@ -43,8 +43,8 @@ Learning materials for AI related topics
 
 # MCP
 
-* https://www.youtube.com/live/8-okWLAUI3Q?si=gDcGGf64g3xoP2tl
-* https://www.youtube.com/live/lHuxDMMkGJ8?si=4ojIDcnoxZptU9It
+* [MCP Dev Days: Day 1 - DevTools](https://www.youtube.com/watch?v=8-okWLAUI3Q)
+* [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
 
 ## Tooling
 
