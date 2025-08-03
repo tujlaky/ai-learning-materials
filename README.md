@@ -14,7 +14,7 @@ Learning materials for AI related topics
 * https://cloud.google.com/learn/training/machinelearning-ai
 
 ## Python learning
-* https://youtu.be/MqywbqLmjp4?si=EWHQf6Rj1PefL1c4
+* [I've Read Over 100 Books on Python. Here are the Top 3](https://www.youtube.com/watch?v=MqywbqLmjp4)
 
 ## Math
 
@@ -24,22 +24,22 @@ Learning materials for AI related topics
 ## Deep learning
 
 * https://www.coursera.org/specializations/deep-learning
-* https://youtu.be/O5xeyoRL95U?si=EjuIuCVN_RtvZo59
+* [Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 
 ## Other AI learning
 
 * https://www.theunwindai.com/
-* https://youtu.be/eE6yvtKLwvk?si=s8AQ1Wh0w9jk9rVE
-* https://youtu.be/JAWSqX2fBvQ?si=5GkoRdbDhMiDLKh2
-* https://youtu.be/dbUIjFXIpis?si=Fb00OmhFcGOvCTNZ
-* https://youtu.be/KgolhE7p-KY?si=po9XiJXp0VStDRam
-* https://youtu.be/_xIwjmCH6D4?si=2ykTFLlFBQ_nCfPX
-* https://youtu.be/lU12aoer3Mk?si=lPjmBZWhWoplpfLz
-* https://youtu.be/Bx4BYXOE9SQ?si=VXtCGGcGESXWq5zL
+* [STOP Taking Random AI Courses - Read These Books Instead](https://www.youtube.com/watch?v=eE6yvtKLwvk)
+* [The Ultimate AI/ML Roadmap For Beginners](https://www.youtube.com/watch?v=JAWSqX2fBvQ)
+* [AI Engineering: A *Realistic* Roadmap for Beginners](https://www.youtube.com/watch?v=dbUIjFXIpis)
+* [How To Learn Math for Machine Learning FAST (Even With Zero Math Background)](https://www.youtube.com/watch?v=KgolhE7p-KY)
+* [How I'd learn ML in 2025 (if I could start over)](https://www.youtube.com/watch?v=_xIwjmCH6D4)
+* [Machine Learning Roadmap 2025 - What Skills Should You Learn First?](https://www.youtube.com/watch?v=lU12aoer3Mk)
+* [Why Your Machine Learning Projects Won't Land You a Job (The 5 Levels of ML Projects)](https://www.youtube.com/watch?v=Bx4BYXOE9SQ)
 
 # AI agents
 
-* https://youtu.be/Ts42JTye-AI?si=psyoHXsplhXKf31X
+* [10 Use Cases for AI Agents: IoT, RAG, & Disaster Response Explained](https://www.youtube.com/watch?v=Ts42JTye-AI)
 
 # MCP
 
@@ -64,4 +64,4 @@ Learning materials for AI related topics
 
 ## Training models
 
-* [Train a Reasoning-Capable LLM in One Weekend](https://youtu.be/hMGikmMFLAU?si=f0QvHil6s1vglYg0)
+* [Train a Reasoning-Capable LLM in One Weekend]([Train a Reasoning-Capable LLM in One Weekend](https://www.youtube.com/watch?v=hMGikmMFLAU)
