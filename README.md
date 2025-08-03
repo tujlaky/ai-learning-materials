@@ -5,30 +5,30 @@ Learning materials for AI related topics
 
 ## Microsoft learning materials
 
-* https://github.com/Microsoft/AI-For-Beginners
-* https://github.com/Microsoft/ML-for-Beginners
+* [GitHub - microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/Microsoft/AI-For-Beginners)
+* [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/Microsoft/ML-for-Beginners)
 
 ## Google learning materials
 
-* https://www.coursera.org/specializations/ai-essentials-google
-* https://cloud.google.com/learn/training/machinelearning-ai
+* [Google AI Essentials | Coursera](https://www.coursera.org/specializations/ai-essentials-google)
+* [Machine Learning & AI Courses  |  Google Cloud Training](https://cloud.google.com/learn/training/machinelearning-ai)
 
 ## Python learning
 * [I've Read Over 100 Books on Python. Here are the Top 3](https://www.youtube.com/watch?v=MqywbqLmjp4)
 
 ## Math
 
-* https://www.mathacademy.com
-* https://www.khanacademy.org
+* [Math Academy](https://www.mathacademy.com)
+* [Khan Academy](https://www.khanacademy.org)
 
 ## Deep learning
 
-* https://www.coursera.org/specializations/deep-learning
+* [Deep Learning | Coursera](https://www.coursera.org/specializations/deep-learning)
 * [Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 
 ## Other AI learning
 
-* https://www.theunwindai.com/
+* [unwind ai](https://www.theunwindai.com/)
 * [STOP Taking Random AI Courses - Read These Books Instead](https://www.youtube.com/watch?v=eE6yvtKLwvk)
 * [The Ultimate AI/ML Roadmap For Beginners](https://www.youtube.com/watch?v=JAWSqX2fBvQ)
 * [AI Engineering: A *Realistic* Roadmap for Beginners](https://www.youtube.com/watch?v=dbUIjFXIpis)
@@ -48,17 +48,17 @@ Learning materials for AI related topics
 
 ## Tooling
 
-* https://www.arcade.dev/
+* [Go Beyond Chat: Make AI actually do things.](https://www.arcade.dev/)
 
 # Prototyping tools
 
-* https://github.com/dyad-sh/dyad
+* [GitHub - dyad-sh/dyad: Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!](https://github.com/dyad-sh/dyad)
 
 # n8n
 
-* https://developers.googleblog.com/en/introducing-opal/
-* https://github.com/flydelabs/flyde
-* https://github.com/simstudioai/sim
+* [Introducing Opal: describe, create, and share your AI mini-apps - Google Developers Blog](https://developers.googleblog.com/en/introducing-opal/)
+* [GitHub - flydelabs/flyde: Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.](https://github.com/flydelabs/flyde)
+* [GitHub - simstudioai/sim: Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.](https://github.com/simstudioai/sim)
 
 # Training
 
