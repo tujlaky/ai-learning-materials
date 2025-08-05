@@ -67,6 +67,8 @@ Learning materials for AI related topics
 
 ## Tooling
 
+* https://youtu.be/uRuLgar5XZw?si=hAmlqv1e8-udPI-M
+
 * [Go Beyond Chat: Make AI actually do things.](https://www.arcade.dev/)
 * [GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps)
 * [GitHub - insaaniManav/prompt-forge: AI prompt engineering workbench for crafting, testing, and systematically evaluating prompts with powerful analysis tools.](https://github.com/insaaniManav/prompt-forge)
