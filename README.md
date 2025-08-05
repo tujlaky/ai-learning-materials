@@ -21,6 +21,10 @@ Learning materials for AI related topics
 * [Math Academy](https://www.mathacademy.com)
 * [Khan Academy](https://www.khanacademy.org)
 
+## AI engineering
+
+* https://youtu.be/-T6uZYYzkWw?si=LMSJmi2xWZo31tx9
+
 ## Deep learning
 
 * [Deep Learning | Coursera](https://www.coursera.org/specializations/deep-learning)
