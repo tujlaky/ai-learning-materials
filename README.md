@@ -37,6 +37,10 @@ Learning materials for AI related topics
 * [Machine Learning Roadmap 2025 - What Skills Should You Learn First?](https://www.youtube.com/watch?v=lU12aoer3Mk)
 * [Why Your Machine Learning Projects Won't Land You a Job (The 5 Levels of ML Projects)](https://www.youtube.com/watch?v=Bx4BYXOE9SQ)
 
+# What to build?
+
+* https://youtube.com/shorts/x20Kk6G0QkU?si=XFRh6NvJqhhcW18t
+
 # AI agents
 
 * [10 Use Cases for AI Agents: IoT, RAG, & Disaster Response Explained](https://www.youtube.com/watch?v=Ts42JTye-AI)
