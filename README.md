@@ -28,6 +28,7 @@ Learning materials for AI related topics
 
 ## Other AI learning
 
+* [Introduction - Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
 * [unwind ai](https://www.theunwindai.com/)
 * [STOP Taking Random AI Courses - Read These Books Instead](https://www.youtube.com/watch?v=eE6yvtKLwvk)
 * [The Ultimate AI/ML Roadmap For Beginners](https://www.youtube.com/watch?v=JAWSqX2fBvQ)
