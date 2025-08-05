@@ -46,6 +46,10 @@ Learning materials for AI related topics
 # AI agents
 
 * [10 Use Cases for AI Agents: IoT, RAG, & Disaster Response Explained](https://www.youtube.com/watch?v=Ts42JTye-AI)
+* [The Leading Multi-Agent Platform](https://www.crewai.com)
+* [Home | Langflow](https://www.langflow.org)
+* [Vapi - Build Advanced Voice AI Agents](https://vapi.ai)
+* [LiveKit | The all-in-one Voice AI platform](https://livekit.io)
 
 # MCP
 
