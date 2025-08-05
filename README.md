@@ -38,6 +38,7 @@ Learning materials for AI related topics
 * [Machine Learning Roadmap 2025 - What Skills Should You Learn First?](https://www.youtube.com/watch?v=lU12aoer3Mk)
 * [Why Your Machine Learning Projects Won't Land You a Job (The 5 Levels of ML Projects)](https://www.youtube.com/watch?v=Bx4BYXOE9SQ)
 * [How I'd Learn ML/AI FAST If I Had to Start Over](https://www.youtube.com/watch?v=8xUher8-5_Q)
+* https://youtu.be/I2ZK3ngNvvI?si=Dsgykjter8UX61XP
 
 # What to build?
 
