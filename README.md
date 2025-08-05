@@ -29,6 +29,7 @@ Learning materials for AI related topics
 
 * [Deep Learning | Coursera](https://www.coursera.org/specializations/deep-learning)
 * [Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
+* https://youtu.be/RUIcLaXGGcU?si=zxzGeDfhKwBxHYsV
 
 ## Other AI learning
 
