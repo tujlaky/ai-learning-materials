@@ -25,6 +25,10 @@ Learning materials for AI related topics
 
 * [Practical tactics to build reliable AI apps — Dmitry Kuchin, Multinear](https://www.youtube.com/watch?v=-T6uZYYzkWw)
 
+## Transformers
+
+* https://poloclub.github.io/transformer-explainer/
+
 ## Deep learning
 
 * [Deep Learning | Coursera](https://www.coursera.org/specializations/deep-learning)
