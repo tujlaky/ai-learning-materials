@@ -23,13 +23,13 @@ Learning materials for AI related topics
 
 ## AI engineering
 
-* https://youtu.be/-T6uZYYzkWw?si=LMSJmi2xWZo31tx9
+* [Practical tactics to build reliable AI apps — Dmitry Kuchin, Multinear](https://www.youtube.com/watch?v=-T6uZYYzkWw)
 
 ## Deep learning
 
 * [Deep Learning | Coursera](https://www.coursera.org/specializations/deep-learning)
 * [Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
-* https://youtu.be/RUIcLaXGGcU?si=zxzGeDfhKwBxHYsV
+* [661: Designing Machine Learning Systems — with Chip Huyen](https://www.youtube.com/watch?v=RUIcLaXGGcU)
 
 ## Other AI learning
 
@@ -63,16 +63,16 @@ Learning materials for AI related topics
 
 * [MCP Dev Days: Day 1 - DevTools](https://www.youtube.com/watch?v=8-okWLAUI3Q)
 * [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
-* https://youtu.be/HNzH5Us1Rvg?si=NPxcmhgcvqEaAGP1
-* https://github.com/zilliztech/claude-context
+* [MCP 201](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
+* [GitHub - zilliztech/claude-context: MCP for code search, build for Claude Code, Gemini CLI or any code agents.](https://github.com/zilliztech/claude-context)
 
 # Claude plugins
 
-* https://github.com/brennercruvinel/CCPlugins
+* [GitHub - brennercruvinel/CCPlugins: Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.](https://github.com/brennercruvinel/CCPlugins)
 
 ## Tooling
 
-* https://youtu.be/uRuLgar5XZw?si=hAmlqv1e8-udPI-M
+* [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw)
 
 * [Go Beyond Chat: Make AI actually do things.](https://www.arcade.dev/)
 * [GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps)
