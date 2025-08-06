@@ -28,6 +28,7 @@ Learning materials for AI related topics
 ## Transformers
 
 * https://poloclub.github.io/transformer-explainer/
+* https://github.com/karpathy/nanoGPT
 
 ## Deep learning
 
