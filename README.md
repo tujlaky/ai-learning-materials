@@ -64,6 +64,7 @@ Learning materials for AI related topics
 * [MCP Dev Days: Day 1 - DevTools](https://www.youtube.com/watch?v=8-okWLAUI3Q)
 * [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
 * https://youtu.be/HNzH5Us1Rvg?si=NPxcmhgcvqEaAGP1
+* https://github.com/zilliztech/claude-context
 
 ## Tooling
 
