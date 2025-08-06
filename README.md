@@ -66,6 +66,10 @@ Learning materials for AI related topics
 * https://youtu.be/HNzH5Us1Rvg?si=NPxcmhgcvqEaAGP1
 * https://github.com/zilliztech/claude-context
 
+# Claude plugins
+
+* https://github.com/brennercruvinel/CCPlugins
+
 ## Tooling
 
 * https://youtu.be/uRuLgar5XZw?si=hAmlqv1e8-udPI-M
