@@ -21,6 +21,7 @@ Learning materials for AI related topics
 ## Math
 
 * https://mml-book.com/
+* https://github.com/dair-ai/Mathematics-for-ML
 * [Math Academy](https://www.mathacademy.com)
 * [Khan Academy](https://www.khanacademy.org)
 
