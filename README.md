@@ -42,6 +42,7 @@ Learning materials for AI related topics
 * [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT)
 * [Transformers Explained Visually: Learn How LLM Transformer Models Work](https://www.youtube.com/watch?v=ECR4oAwocjs)
 * https://youtu.be/SZorAJ4I-sA
+* https://youtu.be/wjZofJX0v4M
 
 ## Deep learning
 
