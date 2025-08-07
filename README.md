@@ -20,6 +20,8 @@ Learning materials for AI related topics
 
 ## Math
 
+* https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science/
+
 * https://mml-book.com/
 * https://github.com/dair-ai/Mathematics-for-ML
 * [Math Academy](https://www.mathacademy.com)
