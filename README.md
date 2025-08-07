@@ -43,6 +43,7 @@ Learning materials for AI related topics
 * [Transformers Explained Visually: Learn How LLM Transformer Models Work](https://www.youtube.com/watch?v=ECR4oAwocjs)
 * https://youtu.be/SZorAJ4I-sA
 * https://youtu.be/wjZofJX0v4M
+* https://youtu.be/ZXiruGOCn9s
 
 ## Deep learning
 
