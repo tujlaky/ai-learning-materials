@@ -20,9 +20,9 @@ Learning materials for AI related topics
 
 ## Math
 
+* https://youtube.com/@3blue1brown?si=lxeJp8rfzkVKmQaG
 * [Mathematics for Machine Learning | Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
 * [Mathematics for Machine Learning and Data Science | Coursera](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science/)
-
 * [Mathematics for Machine Learning | Companion webpage to the book “Mathematics for Machine Learning”. Copyright 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Published by Cambridge University Press.](https://mml-book.com/)
 * [GitHub - dair-ai/Mathematics-for-ML: 🧮  A collection of resources to learn mathematics for machine learning](https://github.com/dair-ai/Mathematics-for-ML)
 * [Math Academy](https://www.mathacademy.com)
