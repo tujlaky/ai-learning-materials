@@ -20,6 +20,7 @@ Learning materials for AI related topics
 
 ## Math
 
+* https://mml-book.com/
 * [Math Academy](https://www.mathacademy.com)
 * [Khan Academy](https://www.khanacademy.org)
 
