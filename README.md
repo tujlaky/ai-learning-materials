@@ -25,6 +25,10 @@ Learning materials for AI related topics
 
 * [Practical tactics to build reliable AI apps — Dmitry Kuchin, Multinear](https://www.youtube.com/watch?v=-T6uZYYzkWw)
 
+## Seq2seq
+
+* https://github.com/bentrevett/pytorch-seq2seq
+
 ## Transformers
 
 * [Transformer Explainer: LLM Transformer Model Visually Explained](https://poloclub.github.io/transformer-explainer/)
