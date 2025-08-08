@@ -86,6 +86,10 @@ Learning materials for AI related topics
 * [MCP 201](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
 * [GitHub - zilliztech/claude-context: MCP for code search, build for Claude Code, Gemini CLI or any code agents.](https://github.com/zilliztech/claude-context)
 
+# Ollama tools
+
+* [GitHub - block/goose: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM](https://github.com/block/goose)
+
 # Claude plugins
 
 * [GitHub - brennercruvinel/CCPlugins: Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.](https://github.com/brennercruvinel/CCPlugins)
