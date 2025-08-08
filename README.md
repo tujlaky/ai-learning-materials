@@ -7,7 +7,7 @@ Learning materials for AI related topics
 
 * [GitHub - microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/Microsoft/AI-For-Beginners)
 * [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/Microsoft/ML-for-Beginners)
-* [GitHub - microsoft/generative-ai-for-beginners: 21 Lessons, Get Started Building with Generative AI  🔗 [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)](https://github.com/microsoft/generative-ai-for-beginners)
+* [GitHub - microsoft/generative-ai-for-beginners: 21 Lessons, Get Started Building with Generative AI](https://github.com/microsoft/generative-ai-for-beginners)
 * [GitHub - microsoft/Data-Science-For-Beginners: 10 Weeks, 20 Lessons, Data Science for All!](https://github.com/Microsoft/Data-Science-For-Beginners)
 
 ## Google learning materials
