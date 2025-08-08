@@ -20,7 +20,7 @@ Learning materials for AI related topics
 
 ## Math
 
-* https://youtube.com/@3blue1brown?si=lxeJp8rfzkVKmQaG
+* [Mielőtt továbblép a YouTube-ra](https://youtube.com/@3blue1brown?si=lxeJp8rfzkVKmQaG)
 * [Mathematics for Machine Learning | Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
 * [Mathematics for Machine Learning and Data Science | Coursera](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science/)
 * [Mathematics for Machine Learning | Companion webpage to the book “Mathematics for Machine Learning”. Copyright 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Published by Cambridge University Press.](https://mml-book.com/)
@@ -41,9 +41,9 @@ Learning materials for AI related topics
 * [Transformer Explainer: LLM Transformer Model Visually Explained](https://poloclub.github.io/transformer-explainer/)
 * [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT)
 * [Transformers Explained Visually: Learn How LLM Transformer Models Work](https://www.youtube.com/watch?v=ECR4oAwocjs)
-* https://youtu.be/SZorAJ4I-sA
-* https://youtu.be/wjZofJX0v4M
-* https://youtu.be/ZXiruGOCn9s
+* [Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA)
+* [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)
+* [What are Transformers (Machine Learning Model)?](https://www.youtube.com/watch?v=ZXiruGOCn9s)
 
 ## Deep learning
 
