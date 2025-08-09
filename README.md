@@ -85,6 +85,7 @@ Learning materials for AI related topics
 * [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
 * [MCP 201](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
 * [GitHub - zilliztech/claude-context: MCP for code search, build for Claude Code, Gemini CLI or any code agents.](https://github.com/zilliztech/claude-context)
+* https://github.com/mobile-next/mobile-mcp
 
 # Ollama tools
 
