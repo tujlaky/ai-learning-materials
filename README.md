@@ -105,6 +105,7 @@ Learning materials for AI related topics
 # Prototyping tools
 
 * [GitHub - dyad-sh/dyad: Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!](https://github.com/dyad-sh/dyad)
+* https://github.com/stagewise-io/stagewise
 
 # n8n
 
