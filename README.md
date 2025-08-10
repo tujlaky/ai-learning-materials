@@ -87,6 +87,7 @@ Learning materials for AI related topics
 * [GitHub - zilliztech/claude-context: MCP for code search, build for Claude Code, Gemini CLI or any code agents.](https://github.com/zilliztech/claude-context)
 * https://github.com/mobile-next/mobile-mcp
 * https://github.com/mufeedvh/code2prompt  ‼️
+* https://github.com/QuixiAI/dolphin-mcp ‼️
 
 # Ollama tools
 
