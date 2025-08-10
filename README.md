@@ -85,9 +85,9 @@ Learning materials for AI related topics
 * [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
 * [MCP 201](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
 * [GitHub - zilliztech/claude-context: MCP for code search, build for Claude Code, Gemini CLI or any code agents.](https://github.com/zilliztech/claude-context)
-* https://github.com/mobile-next/mobile-mcp
-* https://github.com/mufeedvh/code2prompt  ‼️
-* https://github.com/QuixiAI/dolphin-mcp ‼️
+* [GitHub - mobile-next/mobile-mcp: Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)](https://github.com/mobile-next/mobile-mcp)
+* [GitHub - mufeedvh/code2prompt: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.](https://github.com/mufeedvh/code2prompt)  ‼️
+* [GitHub - QuixiAI/dolphin-mcp](https://github.com/QuixiAI/dolphin-mcp) ‼️
 
 # Ollama tools
 
@@ -108,7 +108,7 @@ Learning materials for AI related topics
 # Prototyping tools
 
 * [GitHub - dyad-sh/dyad: Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!](https://github.com/dyad-sh/dyad)
-* https://github.com/stagewise-io/stagewise
+* [GitHub - stagewise-io/stagewise: first frontend coding agent for existing production-grade web apps](https://github.com/stagewise-io/stagewise)
 
 # n8n
 
