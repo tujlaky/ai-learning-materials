@@ -97,6 +97,7 @@ Learning materials for AI related topics
 
 * [GitHub - block/goose: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM](https://github.com/block/goose)
 * [GitHub - open-webui/open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
+* https://github.com/google/langextract ‼️
 
 # Claude plugins
 
