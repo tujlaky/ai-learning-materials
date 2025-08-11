@@ -89,6 +89,10 @@ Learning materials for AI related topics
 * [GitHub - mufeedvh/code2prompt: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.](https://github.com/mufeedvh/code2prompt)  ‼️
 * [GitHub - QuixiAI/dolphin-mcp](https://github.com/QuixiAI/dolphin-mcp) ‼️
 
+# OCR 
+
+* https://github.com/datalab-to/surya
+
 # Ollama tools
 
 * [GitHub - block/goose: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM](https://github.com/block/goose)
