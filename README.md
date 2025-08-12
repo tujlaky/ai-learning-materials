@@ -123,6 +123,10 @@ Learning materials for AI related topics
 * [GitHub - flydelabs/flyde: Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.](https://github.com/flydelabs/flyde)
 * [GitHub - simstudioai/sim: Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.](https://github.com/simstudioai/sim)
 
+# Visualize 
+
+* http://apple.github.io/embedding-atlas
+
 # Training
 
 ## Training models
