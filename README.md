@@ -63,7 +63,7 @@ Learning materials for AI related topics
 * [Machine Learning Roadmap 2025 - What Skills Should You Learn First?](https://www.youtube.com/watch?v=lU12aoer3Mk)
 * [Why Your Machine Learning Projects Won't Land You a Job (The 5 Levels of ML Projects)](https://www.youtube.com/watch?v=Bx4BYXOE9SQ)
 * [How I'd Learn ML/AI FAST If I Had to Start Over](https://www.youtube.com/watch?v=8xUher8-5_Q)
-* https://www.kaggle.com/
+* [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
 
 # What to build?
 
@@ -79,6 +79,7 @@ Learning materials for AI related topics
 
 * [Vapi - Build Advanced Voice AI Agents](https://vapi.ai)
 * [LiveKit | The all-in-one Voice AI platform](https://livekit.io)
+* [GitHub - ggml-org/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggml-org/whisper.cpp) - Good for iOS!
 
 # MCP
 
@@ -92,13 +93,13 @@ Learning materials for AI related topics
 
 # OCR 
 
-* https://github.com/datalab-to/surya
+* [GitHub - datalab-to/surya: OCR, layout analysis, reading order, table recognition in 90+ languages](https://github.com/datalab-to/surya)
 
 # Ollama tools
 
 * [GitHub - block/goose: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM](https://github.com/block/goose)
 * [GitHub - open-webui/open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
-* https://github.com/google/langextract ‼️
+* [GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.](https://github.com/google/langextract) ‼️
 
 # Claude plugins
 
@@ -125,7 +126,7 @@ Learning materials for AI related topics
 
 # Visualize 
 
-* http://apple.github.io/embedding-atlas
+* [Embedding Atlas](http://apple.github.io/embedding-atlas)
 
 # Training
 
