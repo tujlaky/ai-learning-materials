@@ -79,7 +79,12 @@ Learning materials for AI related topics
 
 * [Vapi - Build Advanced Voice AI Agents](https://vapi.ai)
 * [LiveKit | The all-in-one Voice AI platform](https://livekit.io)
+
+## Whisper
+
 * [GitHub - ggml-org/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggml-org/whisper.cpp) - Good for iOS!
+* [GitHub - argmaxinc/WhisperKit: On-device Speech Recognition for Apple Silicon](https://github.com/argmaxinc/WhisperKit) - Full kit to use Whisper on iOS
+* [GitHub - Saik0s/Whisperboard: The open-source iOS app that's making quality voice transcription more accessible on mobile devices.](https://github.com/Saik0s/Whisperboard) - Example app with WhisperKit
 
 # MCP
 
