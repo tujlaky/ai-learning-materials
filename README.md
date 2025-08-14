@@ -110,6 +110,10 @@ Learning materials for AI related topics
 
 * [GitHub - brennercruvinel/CCPlugins: Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.](https://github.com/brennercruvinel/CCPlugins)
 
+# Claude Code alternatives
+
+* https://github.com/sst/opencode
+
 ## Tooling
 
 * [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw)
