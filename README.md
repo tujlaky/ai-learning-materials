@@ -74,6 +74,7 @@ Learning materials for AI related topics
 * [10 Use Cases for AI Agents: IoT, RAG, & Disaster Response Explained](https://www.youtube.com/watch?v=Ts42JTye-AI)
 * [The Leading Multi-Agent Platform](https://www.crewai.com)
 * [Home | Langflow](https://www.langflow.org)
+* https://github.com/bytedance/UI-TARS-desktop
 
 # Voice 
 
