@@ -76,6 +76,10 @@ Learning materials for AI related topics
 * [Home | Langflow](https://www.langflow.org)
 * https://github.com/bytedance/UI-TARS-desktop
 
+# chat
+
+* https://youtu.be/9tANiA0LKn4?si=13SHxhAJN5iVGbPP
+
 # Voice 
 
 * [Vapi - Build Advanced Voice AI Agents](https://vapi.ai)
