@@ -101,6 +101,7 @@ Learning materials for AI related topics
 * [GitHub - mufeedvh/code2prompt: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.](https://github.com/mufeedvh/code2prompt)  ‼️
 * [GitHub - QuixiAI/dolphin-mcp](https://github.com/QuixiAI/dolphin-mcp) ‼️
 * https://github.com/femto/minion-agent
+* https://github.com/MagicBeansAI/magictunnel
 
 # OCR 
 
