@@ -64,6 +64,7 @@ Learning materials for AI related topics
 * [Why Your Machine Learning Projects Won't Land You a Job (The 5 Levels of ML Projects)](https://www.youtube.com/watch?v=Bx4BYXOE9SQ)
 * [How I'd Learn ML/AI FAST If I Had to Start Over](https://www.youtube.com/watch?v=8xUher8-5_Q)
 * [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
+* https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 
 # What to build?
 
