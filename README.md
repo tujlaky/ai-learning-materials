@@ -64,7 +64,7 @@ Learning materials for AI related topics
 * [Why Your Machine Learning Projects Won't Land You a Job (The 5 Levels of ML Projects)](https://www.youtube.com/watch?v=Bx4BYXOE9SQ)
 * [How I'd Learn ML/AI FAST If I Had to Start Over](https://www.youtube.com/watch?v=8xUher8-5_Q)
 * [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
-* https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+* [GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
 # What to build?
 
@@ -75,11 +75,11 @@ Learning materials for AI related topics
 * [10 Use Cases for AI Agents: IoT, RAG, & Disaster Response Explained](https://www.youtube.com/watch?v=Ts42JTye-AI)
 * [The Leading Multi-Agent Platform](https://www.crewai.com)
 * [Home | Langflow](https://www.langflow.org)
-* https://github.com/bytedance/UI-TARS-desktop
+* [GitHub - bytedance/UI-TARS-desktop: The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra](https://github.com/bytedance/UI-TARS-desktop)
 
 # chat
 
-* https://youtu.be/9tANiA0LKn4?si=13SHxhAJN5iVGbPP
+* [Building an AI-Powered E-commerce Chat Assistant with MongoDB – Tutorial](https://www.youtube.com/watch?v=9tANiA0LKn4)
 
 # Voice 
 
@@ -101,8 +101,8 @@ Learning materials for AI related topics
 * [GitHub - mobile-next/mobile-mcp: Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)](https://github.com/mobile-next/mobile-mcp)
 * [GitHub - mufeedvh/code2prompt: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.](https://github.com/mufeedvh/code2prompt)  ‼️
 * [GitHub - QuixiAI/dolphin-mcp](https://github.com/QuixiAI/dolphin-mcp) ‼️
-* https://github.com/femto/minion-agent
-* https://github.com/MagicBeansAI/magictunnel
+* [GitHub - femto/minion-agent: A simple agent framework that's capable of browser use + mcp + auto instrument + plan + deep  research + more](https://github.com/femto/minion-agent)
+* [GitHub - MagicBeansAI/magictunnel](https://github.com/MagicBeansAI/magictunnel)
 
 # OCR 
 
@@ -120,7 +120,7 @@ Learning materials for AI related topics
 
 # Claude Code alternatives
 
-* https://github.com/sst/opencode
+* [GitHub - sst/opencode: AI coding agent, built for the terminal.](https://github.com/sst/opencode)
 
 ## Tooling
 
@@ -129,7 +129,7 @@ Learning materials for AI related topics
 * [Go Beyond Chat: Make AI actually do things.](https://www.arcade.dev/)
 * [GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps)
 * [GitHub - insaaniManav/prompt-forge: AI prompt engineering workbench for crafting, testing, and systematically evaluating prompts with powerful analysis tools.](https://github.com/insaaniManav/prompt-forge)
-* https://github.com/huggingface/aisheets
+* [GitHub - huggingface/aisheets: Build, enrich, and transform datasets using AI models with no code](https://github.com/huggingface/aisheets)
 
 # Prototyping tools
 
