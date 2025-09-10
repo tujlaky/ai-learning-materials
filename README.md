@@ -107,6 +107,8 @@ Learning materials for AI related topics
 # OCR 
 
 * [GitHub - datalab-to/surya: OCR, layout analysis, reading order, table recognition in 90+ languages](https://github.com/datalab-to/surya)
+* [GitHub - bhimrazy/receipt-ocr: An efficient OCR engine for receipt image processing.](https://github.com/bhimrazy/receipt-ocr)
+* [Automatically OCR’ing Receipts and Scans - PyImageSearch](https://pyimagesearch.com/2021/10/27/automatically-ocring-receipts-and-scans/)
 
 # Ollama tools
 
